@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "Be Alright",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-26T23:15:24.000930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "be alright",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/01_be_alright_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That'd Be Alright",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/02_That'd_Be_Alright_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That'd Be Alright",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/03_That'd_Be_Alright_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything Will Be Alright",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/04_Everything_Will_Be_Alright_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We'll Probably Be Alright",
+      "artist": "Kurt Travis",
+      "has_synced": false,
+      "path": "select/05_We'll_Probably_Be_Alright_Kurt_Travis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be Alright",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/06_Be_Alright_Zapp.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It'll Be Alright",
+      "artist": "New Buffalo",
+      "has_synced": false,
+      "path": "select/07_It'll_Be_Alright_New_Buffalo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Be Alright",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_Be_Alright_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everything's Gonna Be Alright",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/09_Everything's_Gonna_Be_Alright_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be Alright",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/10_Be_Alright_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be Alright",
+      "artist": "Terence Trent D'Arby",
+      "has_synced": true,
+      "path": "select/11_I'll_Be_Alright_Terence_Trent_D'Arby.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Gonna Be Alright",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/12_It's_Gonna_Be_Alright_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tonight Will Be Alright",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/13_Tonight_Will_Be_Alright_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everything will Be Alright Tomorrow",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/14_Everything_will_Be_Alright_Tomorrow_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ima Be Alright (feat. Bryson Tiller & Future)",
+      "artist": "DJ Khaled feat. Bryson Tiller & Future",
+      "has_synced": true,
+      "path": "select/15_Ima_Be_Alright_(feat._Bryson_Tiller_&_Future)_DJ_Khaled_feat._Bryson_Tiller_&_Future.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ima Be Alright (feat. Bryson Tiller & Future)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/16_Ima_Be_Alright_(feat._Bryson_Tiller_&_Future)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Everything'll Be Alright",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/17_Everything'll_Be_Alright_Andy_Partridge.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be Alright",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Be_Alright_IVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Be Alright",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/localdb_01_Be_Alright_IVE.txt",
+      "repo_name": "h7HpcTqCuIM"
+    }
+  ]
+}
